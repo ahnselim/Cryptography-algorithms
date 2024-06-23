@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704763070 source:c:\users\ahn\desktop\codeblocks\aes33\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
